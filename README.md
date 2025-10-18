@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noassociation5
+- 👋 Hi, I’m @zaid-alrafayia
 - 👀 I’m interested in AI and Cyber security
 - 🌱 I’m currently learning "c++"
 - 📫 How to reach me by discord : vrm.96
